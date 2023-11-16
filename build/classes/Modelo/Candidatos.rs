@@ -1,0 +1,2 @@
+Modelo.VotoComparator
+Modelo.Candidatos
